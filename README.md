@@ -76,14 +76,5 @@
 
 ---
 
-### 📊 Profile contribution
-> Contribution Calendar
-
-![GitHub Contribution Calendar](https://activity-graph.herokuapp.com/graph?username=HANNNNSEN&bg_color=000000&color=00ff00&line=00ff00&point=00ff00&area=true&area_color=ffffff)
-
-
-
----
-
 Credit: [username](https://github.com/Mo-Alsehli)
 Last Edited on: 6/4/2024
